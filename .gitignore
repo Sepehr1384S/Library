@@ -2,3 +2,19 @@
 /shelf/
 /workspace.xml
 .idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# Django
+db.sqlite3
+
+# IDE
+.vscode/
+Library/
